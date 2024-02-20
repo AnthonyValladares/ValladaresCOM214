@@ -1,0 +1,23 @@
+.html {
+  height: 100%;
+  width: 100%;
+}
+
+.Color {
+  color: blue;
+}
+
+.body {
+  background-image: url(https://tenor.com/view/black-background-gif-24652962.gif);
+  color: red;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-postion: center;
+
+
+}
+
+.footer {
+  text-align: center;
+  font-size: 15px;
+}
